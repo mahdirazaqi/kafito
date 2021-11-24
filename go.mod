@@ -4,6 +4,7 @@ go 1.17
 
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/kavenegar/kavenegar-go v0.0.0-20200629080648-6e28263b7162
 	go.mongodb.org/mongo-driver v1.8.0
 )
 
